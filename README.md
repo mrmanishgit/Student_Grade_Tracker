@@ -16,8 +16,4 @@ This task meets all of the requirements and has been thoroughly tested.
 
 outputs
 ----------
-![Uploading 268446625-18d943cd-7407-480b-bcd3-b9e97ff1f580.png…]()
-![Uploading 268446629-3dd97ff3-5b14-4007-b999-66fabcb38fa3.png…]()
-![Uploading 268446633-d2a89597-1258-4c7c-8153-306990328254.png…]()
-![Uploading 268446639-e6b0e55d-347a-4506-ab07-3f5578838790.png…]()
-![Uploading 268446649-40c8a397-eb14-44c8-9df2-c7a571944686.png…]()
+
