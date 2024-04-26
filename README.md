@@ -13,7 +13,6 @@ This task meets all of the requirements and has been thoroughly tested.
 <h1>Demo Video: </h1>
 
 
-Uploading 268446662-4f21ad16-771c-4b21-8d5f-58ad469a987e.mp4…
 
 outputs
 ----------
